@@ -1,0 +1,11 @@
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.exe
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.deps.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.runtimeconfig.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.runtimeconfig.dev.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.dll
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\bin\Debug\netcoreapp3.1\ConsoleRecursive.pdb
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\obj\Debug\netcoreapp3.1\ConsoleRecursive.csprojAssemblyReference.cache
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\obj\Debug\netcoreapp3.1\ConsoleRecursive.AssemblyInfoInputs.cache
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\obj\Debug\netcoreapp3.1\ConsoleRecursive.AssemblyInfo.cs
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\obj\Debug\netcoreapp3.1\ConsoleRecursive.dll
+C:\Learn\C#\Alogoritam\ConsoleApp1\ConsoleRecursive\obj\Debug\netcoreapp3.1\ConsoleRecursive.pdb

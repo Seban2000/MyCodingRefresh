@@ -1,0 +1,11 @@
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.exe
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.deps.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.runtimeconfig.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.runtimeconfig.dev.json
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.dll
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\bin\Debug\netcoreapp3.1\HashChain.pdb
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\obj\Debug\netcoreapp3.1\HashChain.csprojAssemblyReference.cache
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\obj\Debug\netcoreapp3.1\HashChain.AssemblyInfoInputs.cache
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\obj\Debug\netcoreapp3.1\HashChain.AssemblyInfo.cs
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\obj\Debug\netcoreapp3.1\HashChain.dll
+C:\Learn\C#\Alogoritam\ConsoleApp1\HashChain\obj\Debug\netcoreapp3.1\HashChain.pdb
