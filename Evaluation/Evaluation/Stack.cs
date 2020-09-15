@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Evaluation
+{
+    public class Stack<T>
+    {
+        private List<T> _list = new List<T>();
+        public int Count => _list.Count;
+
+        public T Pop()
+        {
+            if (this.Count == 0)
+                throw new InvalidOperationException();
+            var result = this._list[this.Count - 1];
+            this._list.RemoveAt(this.Count - 1);
+            return result;
+        }
+
+        public void Push(T obj)
+        {
+            if (obj == null)
+                throw new ArgumentNullException();
+            this._list.Add(obj);
+        }
+
+        public T Peek()
+        {
+            if (this.Count == 0)
+                throw new InvalidOperationException();
+            var result = this._list[this.Count - 1];
+            return result;
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Learn\Evaluation\Evaluation\Evaluation\bin\Debug\Evaluation.exe.config
+C:\Learn\Evaluation\Evaluation\Evaluation\bin\Debug\Evaluation.exe
+C:\Learn\Evaluation\Evaluation\Evaluation\bin\Debug\Evaluation.pdb
+C:\Learn\Evaluation\Evaluation\Evaluation\obj\Debug\Evaluation.csprojAssemblyReference.cache
+C:\Learn\Evaluation\Evaluation\Evaluation\obj\Debug\Evaluation.exe
+C:\Learn\Evaluation\Evaluation\Evaluation\obj\Debug\Evaluation.pdb
